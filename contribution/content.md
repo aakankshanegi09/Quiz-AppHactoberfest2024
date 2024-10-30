@@ -42,3 +42,8 @@
 - **GitHub Link**: https://github.com/laiba-Ashfaq
 
 
+- **Name**:  Muhammad Talha
+- **Role**: Comtributor
+- **Institution**: UET Taxila Pakistan
+- **GitHub Link**: https://github.com/LearnCode801
+
