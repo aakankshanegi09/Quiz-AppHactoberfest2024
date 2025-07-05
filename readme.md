@@ -1,6 +1,6 @@
 # Quiz App
 
-Welcome to the Quiz App! This application is built using HTML, CSS, and JavaScript and is fully responsive.
+Welcome to the Quiz App! This application is built using HTML, CSS, and JavaScript and is fully responsive and interactive.
 
 ## Features
 
